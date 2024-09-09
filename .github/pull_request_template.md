@@ -1,14 +1,3 @@
----
-name: Pull Request
-about: Create a pull request that solves an issue
-title: "[PR] - "
-labels: ''
-assignees: ''
-
----
-
-**IMPORTANT: Please do not create a Pull Request without creating an issue first.**
-
 ### Please provide enough information so that others can review your pull request:
 <!-- You can skip this if you're fixing a typo or something meaningless. -->
 
