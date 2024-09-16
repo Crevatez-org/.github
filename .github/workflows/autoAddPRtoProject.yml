@@ -38,4 +38,4 @@ jobs:
       # Step 3: Optionally, add a sprint label
       - name: Add Sprint Label
         run: |
-          gh pr edit ${{ github.event.pull_request.number }} --add-label 'sprint-12'
+          gh pr edit ${{ github.event.pull_request.number }} --add-label 'bug'
